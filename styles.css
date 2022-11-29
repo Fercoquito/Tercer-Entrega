@@ -1,0 +1,25 @@
+.cartita {
+    width: 30%;
+    background-color: #7296e6;
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-inline: 1.5%;
+    margin-block: 20px;
+    overflow: auto;
+    position: relative;
+    border: 8px double #000000;
+    list-style: none;
+}
+
+.cartita__imagen {
+    width: 100%;
+}
+
+.button {   
+    background-color: #175397;
+    color:white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
